@@ -1,1 +1,4 @@
 # project-on-linear-regression
+Data source https://www.kaggle.com/datasets/srolka/ecommerce-customers
+A project on conducting a data analysis on a hypothetical ecommerce company, sourced from a Kaggle dataset. The aim is to determine whether the company should prioritize improvements on their mobile app or website, based on simulated customer behavior data.
+This project involves the application of linear regression using machine learning techniques in Python. Python libraries such as pandas for data handling, NumPy for numerical operations, Matplotlib and Seaborn for data visualization, and sklearn for the machine learning component. The objective is to analyze data from a hypothetical ecommerce company, obtained from a Kaggle dataset. The analysis aims to guide the company on whether to focus their enhancements on their mobile app or website, based on simulated customer behavior data.
